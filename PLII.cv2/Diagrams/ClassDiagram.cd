@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PLII.cv2.MyStack">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAgAAAAAAACIAAAIAAAAAABBCAA=</HashCode>
+      <FileName>MyStack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PLII.cv2.MyQueue">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAAAAAAAABAAAgAAAAAgAAAAAAIAAAAAABBAAA=</HashCode>
+      <FileName>MyQueue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="PLII.cv2.IADT">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+      <FileName>IADT.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PLII.cv2.IQueue">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IQueue.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PLII.cv2.IStack">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAACAA=</HashCode>
+      <FileName>IStack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
